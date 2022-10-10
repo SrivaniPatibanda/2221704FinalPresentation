@@ -1,0 +1,13 @@
+C:\Users\cogdotnet1703\source\repos\digitalbookmicroservice\DigitalBook\SharedData\bin\Debug\netcoreapp3.1\SharedData.deps.json
+C:\Users\cogdotnet1703\source\repos\digitalbookmicroservice\DigitalBook\SharedData\bin\Debug\netcoreapp3.1\SharedData.runtimeconfig.json
+C:\Users\cogdotnet1703\source\repos\digitalbookmicroservice\DigitalBook\SharedData\bin\Debug\netcoreapp3.1\SharedData.runtimeconfig.dev.json
+C:\Users\cogdotnet1703\source\repos\digitalbookmicroservice\DigitalBook\SharedData\bin\Debug\netcoreapp3.1\SharedData.dll
+C:\Users\cogdotnet1703\source\repos\digitalbookmicroservice\DigitalBook\SharedData\bin\Debug\netcoreapp3.1\SharedData.pdb
+C:\Users\cogdotnet1703\source\repos\digitalbookmicroservice\DigitalBook\SharedData\obj\Debug\netcoreapp3.1\SharedData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet1703\source\repos\digitalbookmicroservice\DigitalBook\SharedData\obj\Debug\netcoreapp3.1\SharedData.AssemblyInfoInputs.cache
+C:\Users\cogdotnet1703\source\repos\digitalbookmicroservice\DigitalBook\SharedData\obj\Debug\netcoreapp3.1\SharedData.AssemblyInfo.cs
+C:\Users\cogdotnet1703\source\repos\digitalbookmicroservice\DigitalBook\SharedData\obj\Debug\netcoreapp3.1\SharedData.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet1703\source\repos\digitalbookmicroservice\DigitalBook\SharedData\obj\Debug\netcoreapp3.1\SharedData.dll
+C:\Users\cogdotnet1703\source\repos\digitalbookmicroservice\DigitalBook\SharedData\obj\Debug\netcoreapp3.1\SharedData.pdb
+C:\Users\cogdotnet1703\source\repos\digitalbookmicroservice\DigitalBook\SharedData\obj\Debug\netcoreapp3.1\SharedData.genruntimeconfig.cache
+C:\Users\cogdotnet1703\source\repos\digitalbookmicroservice\DigitalBook\SharedData\obj\Debug\netcoreapp3.1\SharedData.csproj.AssemblyReference.cache
